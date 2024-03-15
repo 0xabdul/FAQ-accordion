@@ -55,7 +55,7 @@
 
 ## Preview Screen Shots 📷<br>
 
-<img src="https://github.com/0xabdul/FAQ-accordion/assets/119418867/754bd07d-14f0-4e8a-89f0-45c90a49ba9a" height="400px"></img>
+<img src="https://github.com/0xabdul/FAQ-accordion/assets/119418867/754bd07d-14f0-4e8a-89f0-45c90a49ba9a" height="350px"></img>
 <br><br>
 
 ## Links 🚥 <br>
