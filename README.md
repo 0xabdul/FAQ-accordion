@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/0xabdul/Interactive-Rating-Component/assets/119418867/fa658c7b-4913-468f-aec0-b3aa8409aa22" height="80px"></img></h1><br>
-<h4 align="center" color="blue">Front End Mentor Challenge</h4><br>
+<h2 align="center" color="blue">Front End Mentor Challenge</h2><br>
 <div align="center">
   <a href="https://www.frontendmentor.io/profile/0xAbdul">
     <img src="https://img.shields.io/badge/Profile-0xAbdul-fefefe?style=for-the-badge&logo=frontendmentor" alt="Abdul Profile">
